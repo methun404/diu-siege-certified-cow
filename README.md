@@ -5,9 +5,9 @@
 [![GLFW](https://img.shields.io/badge/Window-GLFW3-orange?style=for-the-badge)](https://www.glfw.org/)
 [![Audio](https://img.shields.io/badge/Audio-miniaudio-blueviolet?style=for-the-badge)](https://miniaud.io/)
 [![Platform](https://img.shields.io/badge/Platform-macOS-black?style=for-the-badge&logo=apple)](https://www.apple.com/macos/)
-[![Course](https://img.shields.io/badge/Course-Computer_Graphics-green?style=for-the-badge)](https://daffodilvarsity.edu.bd/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](LICENSE)
 
-> An interactive 2D procedural destruction engine, particle physics simulator, and tactical strike game developed in C++ and OpenGL. Built as a creative and fun project for the **Computer Graphics & Multimedia** course at **Daffodil International University (DIU)**.
+> An interactive 2D procedural destruction engine, particle physics simulator, and tactical strike game developed in C++ and OpenGL.
 
 ---
 
@@ -129,14 +129,7 @@ chmod +x build.sh
 
 ---
 
-## 🏫 Academic Context
-
-* **Institution:** [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)
-* **Department:** Department of Computer Science & Engineering (CSE)
-* **Course:** Computer Graphics and Multimedia Laboratory
-* **Developer:** [Methun (@methun404)](https://github.com/methun404)
-
----
-
 ## 📄 License
-This project is developed for educational and portfolio demonstration purposes. All rights reserved.
+
+This project is free and open-source software under the [MIT License](LICENSE). Feel free to use, modify, distribute, and build upon it freely.
+
