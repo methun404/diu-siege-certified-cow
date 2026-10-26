@@ -5,7 +5,7 @@
 [![GLFW](https://img.shields.io/badge/Window-GLFW3-orange?style=for-the-badge)](https://www.glfw.org/)
 [![Audio](https://img.shields.io/badge/Audio-miniaudio-blueviolet?style=for-the-badge)](https://miniaud.io/)
 [![Platform](https://img.shields.io/badge/Platform-macOS-black?style=for-the-badge&logo=apple)](https://www.apple.com/macos/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](LICENSE)
+[![License: Fun Only](https://img.shields.io/badge/License-Fun_&_Personal_Use_Only-orange?style=for-the-badge)](LICENSE)
 
 > An interactive 2D procedural destruction engine, particle physics simulator, and tactical strike game developed in C++ and OpenGL.
 
@@ -131,5 +131,10 @@ chmod +x build.sh
 
 ## 📄 License
 
-This project is free and open-source software under the [MIT License](LICENSE). Feel free to use, modify, distribute, and build upon it freely.
+This project is licensed under a **Non-Commercial Fun & Personal Use License**.
+
+* 🎉 **Permitted:** Free to play, run, study, modify, and share strictly for personal fun, humor, learning, and entertainment.
+* 🚫 **Restricted:** Strictly no commercial use, monetization, or selling of this project or its assets.
+
+See the [LICENSE](LICENSE) file for full terms and conditions.
 
